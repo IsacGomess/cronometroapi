@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cronometroapi/static/css/main.10f0fa1f.css",
-    "main.js": "/cronometroapi/static/js/main.03d8406a.js",
+    "main.js": "/cronometroapi/static/js/main.d120c68c.js",
     "static/js/453.fb8c341d.chunk.js": "/cronometroapi/static/js/453.fb8c341d.chunk.js",
     "static/media/logo_transparent.png": "/cronometroapi/static/media/logo_transparent.c591654a026087ad65ae.png",
     "index.html": "/cronometroapi/index.html",
     "main.10f0fa1f.css.map": "/cronometroapi/static/css/main.10f0fa1f.css.map",
-    "main.03d8406a.js.map": "/cronometroapi/static/js/main.03d8406a.js.map",
+    "main.d120c68c.js.map": "/cronometroapi/static/js/main.d120c68c.js.map",
     "453.fb8c341d.chunk.js.map": "/cronometroapi/static/js/453.fb8c341d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.10f0fa1f.css",
-    "static/js/main.03d8406a.js"
+    "static/js/main.d120c68c.js"
   ]
 }
